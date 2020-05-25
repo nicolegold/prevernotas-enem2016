@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/nicolegold/PreverNotasENEM2016/blob/master/descubranotas.png" >
+  <img src="https://raw.githubusercontent.com/nicolegold/PreverNotasENEM2016/master/descubranotas.png" >
 </p>
 # Descubra as melhores notas de matemática do ENEM 2016
 Você deverá criar um modelo para prever a nota da prova de matemática de quem participou do ENEM 2016.
